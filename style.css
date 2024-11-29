@@ -23,25 +23,25 @@ body{
 }
 
 .item1{
-    background-image: url("fotos/porsche.png");
+    background-image: url("porsche.png");
     background-size: cover;
     background-position: center;
 }
 
 .item2{
-    background-image: url("fotos/panamra.jpg");
+    background-image: url("panamra.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .item3{
-    background-image: url("fotos/bmw.webp");
+    background-image: url("bmw.webp");
     background-size: cover;
     background-position: center;
 }
 
 .item4{
-    background-image: url("fotos/audirs.jpg");
+    background-image: url("audirs.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -51,25 +51,25 @@ body{
 }
 
 .item6{
-    background-image: url("fotos/mercedes.jpg");
+    background-image: url("mercedes.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .item7{
-     background-image: url("fotos/subaro.jpg");
+     background-image: url("subaro.jpg");
      background-size: cover;
      background-position: center;
 }
 
 .item8{
-    background-image: url("fotos/mustang.jpg");
+    background-image: url("mustang.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .item9{
-    background-image: url("fotos/brian.jpg");
+    background-image: url("brian.jpg");
     background-size: cover;
     background-position: center;
 }
